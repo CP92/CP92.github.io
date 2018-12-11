@@ -734,12 +734,12 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-footer {
-  padding: 3em 0;
+  padding: 0em 0;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-footer {
-    padding: 3em 0;
+    padding: 0em 0;
   }
 }
 
@@ -747,7 +747,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  padding: 8em 0;
+  padding: 0em 0;
   position: relative;
 }
 
