@@ -587,6 +587,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   color: white;
 }
 
+
+
 .probootstrap-section.probootstrap-section-dark .section-heading h2 {
   color: white;
 }
@@ -2479,6 +2481,7 @@ figure:hover figcaption, figure:focus figcaption {
 
 .mb60 {
   margin-bottom: 60px !important;
+  justify-content: center;
 }
 
 .mb70 {
